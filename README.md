@@ -1,90 +1,53 @@
 <p align="center">
-  <img src="baner.jpg" alt="Dobra Karma - banner" width="100%">
+  <img src="baner.jpg" alt="Fundacja Dobra Karma" />
 </p>
 
-<details open>
-  <summary><strong>🇵🇱 Wersja polska</strong></summary>
+# fundacja-dobra-karma
 
-# 🌱 fundacja-dobra-karma
-
-📘 [Pobierz poradnik GitHub po polsku (PDF)](fundacja-dobra-karma-strona%20(1).zip)  
-📌 To repozytorium zawiera stronę fundacji i poradnik w jednym miejscu.
+**🍲 Ciepły posiłek. 🧡 Ciepłe serce.**  
+Pomagamy osobom w kryzysie bezdomności i ubóstwa – oferując darmowe jedzenie, odzież i wsparcie.
 
 ---
 
-### 💡 O fundacji
+## 📘 Poradnik GitHub po polsku (dla początkujących)
 
-Fundacja Dobra Karma wspiera osoby w kryzysie bezdomności i ubóstwa poprzez:
-- 🥣 **Darmowe posiłki**
-- 🧤 **Pakiety pomocowe**
-- ❤️ **Ciepło, wsparcie i nadzieję**
+👉 [**Pobierz poradnik GitHub po polsku (PDF)**](fundacja-dobra-karma-strona%20(1).zip)
 
----
-
-### 🗂 Zawartość
-
-| Plik                                  | Opis                                |
-|--------------------------------------|-------------------------------------|
-| `README.md`                          | Opis projektu                       |
-| `baner.jpg`                          | Baner główny                        |
-| `index.html`                         | Strona główna                       |
-| `style.css`                          | Styl CSS                            |
-| `fundacja-dobra-karma-strona (1).zip` | Poradnik GitHub (PDF)              |
+📎 Zawiera: podstawy Git, zakładanie repozytoriów, commit, push, pull, README i wiele więcej.
 
 ---
 
-### 🙌 Wsparcie
+## 🇵🇱 O fundacji
 
-<p align="center">
-  <a href="https://www.paypal.com/donate" target="_blank">
-    <img src="https://img.shields.io/badge/Wesprzyj-PayPal-blue.svg?logo=paypal" alt="Wesprzyj na PayPal"/>
-  </a>
-  <a href="mailto:kontakt@fundacjadobrakarma.pl">
-    <img src="https://img.shields.io/badge/Kontakt-Email-green.svg?logo=gmail" alt="Kontakt e-mail"/>
-  </a>
-  <a href="https://github.com/dobrakarma/fundacja-dobra-karma" target="_blank">
-    <img src="https://img.shields.io/github/stars/dobrakarma/fundacja-dobra-karma?style=social" alt="Daj gwiazdkę repozytorium"/>
-  </a>
-</p>
+Fundacja Dobra Karma to inicjatywa non-profit, której celem jest zapewnienie:
 
-</details>
+- 🥣 Darmowych posiłków
+- 👚 Ubrań i pakietów higienicznych
+- 🤝 Nadziei i empatii w codziennym życiu
+
+Wszystkie działania opieramy na wolontariacie i darowiznach.
 
 ---
 
-<details>
-  <summary><strong>🇬🇧 English version</strong></summary>
+## 🇬🇧 About the Foundation
 
-# 🌱 dobra-karma-foundation
+**Fundacja Dobra Karma** is a non-profit initiative offering:
 
-📘 [Download GitHub Guide in Polish (PDF)](fundacja-dobra-karma-strona%20(1).zip)  
-📌 This repository contains the foundation's website and GitHub beginner's guide.
+- 🥣 Free meals
+- 👚 Clothes and hygiene packs
+- 🤝 Empathy and hope for people in homelessness or poverty
 
----
-
-### 💡 About the Foundation
-
-Dobra Karma Foundation supports people in homelessness and poverty crisis by offering:
-- 🥣 **Free meals**
-- 🧤 **Social aid packages**
-- ❤️ **Warmth, support, and hope**
+We rely on volunteer support and community donations.
 
 ---
 
-### 🗂 What's Inside
+## 🙌 Jak możesz pomóc? / How you can help
 
-| File                            | Description                          |
-|--------------------------------|--------------------------------------|
-| `README.md`                    | Project description                  |
-| `baner.jpg`                    | Main banner image                    |
-| `index.html`                   | Website homepage                     |
-| `style.css`                    | CSS stylesheet                       |
-| `fundacja-dobra-karma-strona (1).zip` | Polish GitHub guide (PDF)     |
+- ❤️ Zostań wolontariuszem / Become a volunteer
+- 🧺 Przekaż ubrania, żywność lub środki czystości / Donate clothes, food or hygiene products
+- 💸 Wspomóż finansowo / Support us financially
 
 ---
 
-### 🙌 Support Us
-
-<p align="center">
-  <a href="https://www.paypal.com/donate" target="_blank">
-    <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?logo=paypal" alt="Do
-
+> Wersja strony znajduje się w pliku `index.html` (z folderu `.zip`).  
+> The website version is available in `index.html` inside the `.zip` archive.
