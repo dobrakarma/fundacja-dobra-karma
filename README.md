@@ -1,0 +1,1 @@
+# fundacja-dobra-karma
